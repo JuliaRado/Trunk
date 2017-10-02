@@ -6,7 +6,7 @@ namespace ATQC3
 {
     [TestClass]
     public class Class1
-    {
+    {//Main
         [TestMethod]
         public void Main()
         {
@@ -22,7 +22,7 @@ namespace ATQC3
 
             Assert.IsTrue(webDriver.FindElement(By.LinkText("Добро пожаловать в Википедию")).Displayed);
 
-            //Добро пожаловать в Википедиюid="p-logo"
+     
             webDriver.Close();
             
         }
