@@ -1,0 +1,11 @@
+C:\Users\Julia\Documents\Trunk\ATQC\ATQC3\bin\Debug\ATQC3.dll
+C:\Users\Julia\Documents\Trunk\ATQC\ATQC3\bin\Debug\ATQC3.pdb
+C:\Users\Julia\Documents\Trunk\ATQC\ATQC3\bin\Debug\nunit.framework.dll
+C:\Users\Julia\Documents\Trunk\ATQC\ATQC3\bin\Debug\WebDriver.dll
+C:\Users\Julia\Documents\Trunk\ATQC\ATQC3\bin\Debug\nunit.framework.xml
+C:\Users\Julia\Documents\Trunk\ATQC\ATQC3\bin\Debug\WebDriver.xml
+C:\Users\Julia\Documents\Trunk\ATQC\ATQC3\obj\Debug\ATQC3.csprojResolveAssemblyReference.cache
+C:\Users\Julia\Documents\Trunk\ATQC\ATQC3\obj\Debug\ATQC3.csproj.CoreCompileInputs.cache
+C:\Users\Julia\Documents\Trunk\ATQC\ATQC3\obj\Debug\ATQC3.dll
+C:\Users\Julia\Documents\Trunk\ATQC\ATQC3\obj\Debug\ATQC3.pdb
+C:\Users\Julia\Documents\Trunk\ATQC\ATQC3\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
