@@ -11,14 +11,20 @@ namespace ATQC3
         public void Main()
         {
             IWebDriver webDriver = new ChromeDriver();
+
             webDriver.Url = "https://ru.wikipedia.org/";
 
-            webDriver.FindElement(By.LinkText("География")).Click();
+            webDriver.FindElement(By.LinkText("Религия")).Click();
 
-           
+            webDriver.FindElement(By.LinkText("Буддизм")).Click();
 
+            webDriver.FindElement(By.Id("p - logo")).Click();
+
+            Assert.IsTrue(webDriver.FindElement(By.LinkText("Добро пожаловать в Википедию")).Displayed);
+
+            //Добро пожаловать в Википедиюid="p-logo"
             webDriver.Close();
-
+            
         }
     }
 }
